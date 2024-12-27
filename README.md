@@ -1,15 +1,12 @@
-<h1  
-style="background: linear-gradient(45deg, #9c27b0, #673ab7); 
-       -webkit-background-clip: text;
-       -webkit-text-fill-color: transparent;
-       display: inline-block;
-       font-weight: bold
-       "
->
-电网建设造价模拟系统
-</h1>
+<div align="center">
+<svg width="400" height="60">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#673ab7" font-size="28" font-weight="bold">
+        🌐电网建设造价模拟系统⚡
+    </text>
+</svg>
+</div>
 
-<p >
+<p align="center">
   <img src="https://img.shields.io/badge/Vue-3-42b883?logo=vue.js" alt="Vue 3" />
   <img src="https://img.shields.io/badge/Ant%20Design%20Vue-4.0-1890FF?logo=antdesign" alt="Ant Design Vue" />
   <img src="https://img.shields.io/badge/Pinia-state%20management-ffd859?logo=pinia" alt="Pinia" />
@@ -56,8 +53,6 @@ http://localhost:5173/
 
 #### 标记点位
 ![image2](https://s1.imagehub.cc/images/2024/12/27/29ddfa4a91c31d85258140c691c3c1a4.png)
-
-
 #### 展示图的权值
 ![image3](https://s1.imagehub.cc/images/2024/12/27/1b721dd66d43a23d49004feb610fa4f2.png)
 #### 最优的路径(动图)
