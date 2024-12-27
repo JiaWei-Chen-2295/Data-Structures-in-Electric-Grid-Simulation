@@ -19,7 +19,7 @@ style="background: linear-gradient(45deg, #9c27b0, #673ab7);
 
 
 ## 项目展示
-<img src="public/屏幕录制 2024-12-27 124413.gif" style="border-radius: 8px;">
+<img src="./public/屏幕录制 2024-12-27 124413.gif" style="border-radius: 8px;">
 
 ## 项目启动
 
@@ -55,10 +55,10 @@ http://localhost:5173/
 ### 项目使用
 
 #### 标记点位
-(![alt text](public/image2.png))
+![image2](https://s1.imagehub.cc/images/2024/12/27/29ddfa4a91c31d85258140c691c3c1a4.png)
+
 
 #### 展示图的权值
-![alt text](public/image3.png)
-
+![image3](https://s1.imagehub.cc/images/2024/12/27/1b721dd66d43a23d49004feb610fa4f2.png)
 #### 最优的路径(动图)
 ![alt text](<public/屏幕录制 2024-12-27 124413.gif>)
