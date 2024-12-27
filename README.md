@@ -1,10 +1,6 @@
-<div align="center">
-<svg width="400" height="60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#673ab7" font-size="28" font-weight="bold">
-        🌐电网建设造价模拟系统⚡
-    </text>
-</svg>
-</div>
+
+# <div align="center"><font color="#673ab7">🌐电网建设造价模拟系统⚡</font></div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue-3-42b883?logo=vue.js" alt="Vue 3" />
