@@ -18,16 +18,15 @@ style="background: linear-gradient(45deg, #9c27b0, #673ab7);
 </p>
 
 
-## 项目主页
-<img src="public\image.png" style="border-radius: 8px;">
+## 项目展示
+<img src="public/屏幕录制 2024-12-27 124413.gif" style="border-radius: 8px;">
 
 ## 项目启动
 
 
 > PS: 如果你的电脑上没有安装 node 18 及以上的版本，请记得安装  <br /> <br />
-> 如果你电脑上无法安装，有两种方式供你进行查看  <br />
+> 如果你电脑上无法安装，有一种方式供你进行查看  <br />
 > 方式一： 访问我们部署好的网站 [电网建设造价模拟系统](https://flashhero.javierchen.fun/)   <br />
-> 方式二： 使用本目录的 `dist` 文件夹，这是我们打包好的网页文件
 
 
 
@@ -53,4 +52,13 @@ npm run dev
 
 http://localhost:5173/
 
+### 项目使用
 
+#### 标记点位
+(![alt text](public/image2.png))
+
+#### 展示图的权值
+![alt text](public/image3.png)
+
+#### 最优的路径(动图)
+![alt text](<public/屏幕录制 2024-12-27 124413.gif>)
